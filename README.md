@@ -22,5 +22,8 @@
    ```bash
    pip install webdriver-manager
 
-Chrome Driver Downoad Link: https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-tw
+Chrome Driver Downoad Link: 
+```bash
+https://developer.chrome.com/docs/chromedriver/downloads?hl=zh-tw
+https://googlechromelabs.github.io/chrome-for-testing/#stable
 
