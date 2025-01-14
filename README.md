@@ -32,6 +32,6 @@
    https://googlechromelabs.github.io/chrome-for-testing/#stable
 
 ## Study Link:
-1. 
+1. Python使用selenium库实现网页自动化登陆以及数据抓取(爬虫)教程
    ```bash
    https://www.cnblogs.com/JIAcheerful/p/18226320
